@@ -37,8 +37,6 @@ Servo:
 - **Servo** membuka pada sudut **90°**
 - Otomatis **terkunci kembali setelah 2.1 detik**
 
----
-
 ## 🎯 Fitur
 
 ✅ Autentikasi kode 4 digit  
